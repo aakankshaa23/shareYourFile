@@ -4,3 +4,4 @@ Using sockets in Android and i/o stream in Java, File can be sent between 2 devi
 1. Sender selects file to send and QR Code gets generated containing the IP Address and File path.
 2. Receiver scans the QR Code and through sockets , file gets transmitted between device and gets saved in Receiver device under folder named ShareFile.
 
+![Demo][https://drive.google.com/file/d/1xDatMsiTZp44GK1qkZui2To5dsXhTPL7/view?usp=sharing]
